@@ -1,4 +1,4 @@
-# smartalec
+# Smart Alec
 Smart Alec - Tells you what got loaded
 
 Brief Overview:
